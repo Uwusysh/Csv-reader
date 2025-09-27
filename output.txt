@@ -1,0 +1,31 @@
+Invoice_Number: 100
+Date: 2025-09-25
+Recipient_Name: John Doe
+Recipient_Company: Acme Corp
+Recipient_Street: 123 Elm St
+Recipient_City: Springfield
+Recipient_Phone: 555-1234
+ShipTo_Name: John Doe
+ShipTo_Company: Acme Corp
+ShipTo_Street: 123 Elm St
+ShipTo_City: Springfield
+ShipTo_Phone: 555-1234
+Comments: Deliver ASAP
+Salesperson: Jane Smith
+PONumber: PO1234
+Requisitioner: Mark Lee
+Shipped_Via: FedEx
+FOB_Point: Warehouse
+Terms: Due on receipt
+Quantity: 2
+Description: Widget A
+Unit_Price: 50
+Total: 100
+Subtotal: 100
+Sales_Tax: 5
+Shipping_Handling: 10
+Total_Due: 115
+Payment_Instructions: Make all checks payable to Your Company
+Contact_Name: Jane Smith
+Contact_Phone: 555-5678
+Contact_Email: jane@company.com
